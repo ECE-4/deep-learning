@@ -1,3 +1,3 @@
 # Deep learning
 
-Il faut dézipper `data.zip` poura voir un dossier `data` contenant les csv
+Il faut dézipper `data.zip` pour avoir un dossier `data` contenant les csv
